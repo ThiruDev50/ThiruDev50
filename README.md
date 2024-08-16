@@ -21,11 +21,11 @@ Besides my technical skills, what sets me apart is my commitment to client satis
 
 Here are a few highlights of the mini projects I've worked on:
 
-1. **Code Editor:** Developed a fully functional code editor that supports 10+ languages. TS/JS will be run within browser. Demo [https://thirudev50.github.io/devtools/#/code-editor].
+1. **Code Editor:** Developed a fully functional code editor that supports 10+ languages. TS/JS will be run within browser [Genetom Code Editor](https://thirudev50.github.io/devtools/#/code-editor).
    
-2. **Task Management App:** Created a task management application using React.js and Firebase, allowing users to create, update, and delete tasks in real-time.
+2. **DB Schema:** Created a DB Schema visualizer and editor in angular with various useful features like auto save, export, import [Genetom DBSchema](https://thirudev50.github.io/devtools/#/dbschema).
    
-3. **Mobile Expense Tracker:** Built a mobile expense tracker app using Flutter, enabling users to track their expenses on-the-go and visualize spending patterns.
+3. **Chess Engine:** Built a powerfull chess engine package in dart including move generation, board evaluation, and support for various chess variants [Play_Against_The_Chess_Engine](https://thirudev50.github.io/genetom-chess-engine-flutter/#/) , [Dart_Package](https://pub.dev/packages/genetom_chess_engine).
 
 4. **Password Saver App:** Designed and implemented a password saver mobile application using Flutter. Users can securely store their passwords locally on their devices, ensuring privacy and convenience.
 
