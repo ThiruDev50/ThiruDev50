@@ -21,7 +21,7 @@ Besides my technical skills, what sets me apart is my commitment to client satis
 
 Here are a few highlights of the mini projects I've worked on:
 
-1. **E-commerce Website:** Developed a fully functional e-commerce website using Angular for the frontend and Node.js for the backend, integrated with MongoDB for database management.
+1. **Code Editor:** Developed a fully functional code editor that supports 10+ languages. TS/JS will be run within browser. Demo [https://thirudev50.github.io/devtools/#/code-editor].
    
 2. **Task Management App:** Created a task management application using React.js and Firebase, allowing users to create, update, and delete tasks in real-time.
    
