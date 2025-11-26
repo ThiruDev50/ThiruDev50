@@ -10,11 +10,12 @@ I have extensive experience in various technologies, including:
    - Frontend: Angular, React.js
    - Mobile: Flutter
    - Backend: .NET Web API, Node.js
-   - Databases: MongoDB, PostgreSQL, Firebase
+   - Databases: MongoDB, PostgreSQL, Firebase, Supabase
    - Other: Python 3
-   - Cloud: Azure
-   - DevOps: Azure DevOps
-
+   - Cloud: Azure, GCP
+   - DevOps: Azure DevOps, Docker, Kubernetes
+   - AI & ML: TensorFlow, PyTorch, LLM-powered app development
+   
 Besides my technical skills, what sets me apart is my commitment to client satisfaction. I've successfully completed numerous mini projects, and my clients have always been delighted with the results. 🌟
 
 ## Publication 📘
@@ -24,8 +25,8 @@ Besides my technical skills, what sets me apart is my commitment to client satis
 A fully detailed publication explaining long-division method for computing cube roots for all real numbers with arbitrary precision.  
 Includes algorithm design, examples, step-by-step breakdowns, visualizations, and practical implementation notes.
 
-📄 **Research Paper:** [Research paper](https://thirudev50.github.io/files/cbrt/Cube_Root_By_Long_Division.pdf) 
-🔢 **Demo & Calculator:** [Demo](https://thirudev50.github.io/cube-root-by-long-division/)
+📄 **Research Paper:** [Research paper](https://thirudev50.github.io/files/cbrt/Cube_Root_By_Long_Division.pdf)  
+🔢 **Demo & Calculator:** [Demo](https://thirudev50.github.io/cube-root-by-long-division/)  
 💻 **Preprint:**  [Preprint](https://zenodo.org/records/17525697)
 
 ## Mini Projects 💼
