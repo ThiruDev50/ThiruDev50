@@ -17,6 +17,17 @@ I have extensive experience in various technologies, including:
 
 Besides my technical skills, what sets me apart is my commitment to client satisfaction. I've successfully completed numerous mini projects, and my clients have always been delighted with the results. 🌟
 
+## Publication 📘
+
+### Cube Root by Long Division — Unlimited Precision
+
+A fully detailed publication explaining long-division method for computing cube roots for all real numbers with arbitrary precision.  
+Includes algorithm design, examples, step-by-step breakdowns, visualizations, and practical implementation notes.
+
+📄 **Research Paper:** [Research paper](https://thirudev50.github.io/files/cbrt/Cube_Root_By_Long_Division.pdf) 
+🔢 **Demo & Calculator:** [Demo](https://thirudev50.github.io/cube-root-by-long-division/)
+💻 **Preprint:**  [Preprint](https://zenodo.org/records/17525697)
+
 ## Mini Projects 💼
 
 Here are a few highlights of the mini projects I've worked on:
@@ -40,6 +51,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 - LinkedIn: [https://www.linkedin.com/in/thirumoorthy-n/]
 - Portfolio: [https://thirudev50.github.io/portfolio/]
 - Instagram: [https://www.instagram.com/thiru_shady/]
+- MailId: [thiru.dev50@gmail.com]
 
 ## Thanks for Visiting! 🙏
 
