@@ -37,7 +37,7 @@ Here are a few highlights of the mini projects I've worked on:
    
 2. **DB Schema:** Created a DB Schema visualizer and editor in angular with various useful features like auto save, export, import [Genetom DBSchema](https://thirudev50.github.io/devtools/#/dbschema).
 
-3. **Clipsync:** [Genetom Clipsync](https://thirudev50.github.io/devtools/#/clip-sync) is a secure context-sharing platform that enables users to share information through two distinct modes. Snapshot mode allows for quick sharing of context, files, and screenshots via shareable links, while Live mode enables real-time collaborative editing. Both modes feature robust security controls including time-based expiration, email-based access restrictions, IP filtering, and granular permission management for view and edit access.
+3. **Clipsync:** [Genetom Clipsync](https://thirudev50.github.io/devtools/#/clipsync) is a secure context-sharing platform that enables users to share information through two distinct modes. Snapshot mode allows for quick sharing of context, files, and screenshots via shareable links, while Live mode enables real-time collaborative editing. Both modes feature robust security controls including time-based expiration, email-based access restrictions, IP filtering, and granular permission management for view and edit access.
 
 4. **Chess Engine:** Built a powerfull chess engine package in dart including move generation, board evaluation, and support for various chess variants [Play_Against_The_Chess_Engine](https://thirudev50.github.io/genetom-chess-engine-flutter/#/) , [Dart_Package](https://pub.dev/packages/genetom_chess_engine).
 
