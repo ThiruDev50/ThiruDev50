@@ -36,10 +36,12 @@ Here are a few highlights of the mini projects I've worked on:
 1. **Code Editor:** Developed a fully functional code editor that supports 10+ languages. TS/JS will be run within browser [Genetom Code Editor](https://thirudev50.github.io/devtools/#/code-editor).
    
 2. **DB Schema:** Created a DB Schema visualizer and editor in angular with various useful features like auto save, export, import [Genetom DBSchema](https://thirudev50.github.io/devtools/#/dbschema).
-   
-3. **Chess Engine:** Built a powerfull chess engine package in dart including move generation, board evaluation, and support for various chess variants [Play_Against_The_Chess_Engine](https://thirudev50.github.io/genetom-chess-engine-flutter/#/) , [Dart_Package](https://pub.dev/packages/genetom_chess_engine).
 
-4. **Password Saver App:** Designed and implemented a password saver mobile application using Flutter. Users can securely store their passwords locally on their devices, ensuring privacy and convenience.
+3. **Clipsync:** [Genetom Clipsync](https://thirudev50.github.io/devtools/#/clip-sync) is a secure context-sharing platform that enables users to share information through two distinct modes. Snapshot mode allows for quick sharing of context, files, and screenshots via shareable links, while Live mode enables real-time collaborative editing. Both modes feature robust security controls including time-based expiration, email-based access restrictions, IP filtering, and granular permission management for view and edit access.
+
+4. **Chess Engine:** Built a powerfull chess engine package in dart including move generation, board evaluation, and support for various chess variants [Play_Against_The_Chess_Engine](https://thirudev50.github.io/genetom-chess-engine-flutter/#/) , [Dart_Package](https://pub.dev/packages/genetom_chess_engine).
+
+5. **Password Saver App:** Designed and implemented a password saver mobile application using Flutter. Users can securely store their passwords locally on their devices, ensuring privacy and convenience.
 
 ## What Others Say 💬
 
